@@ -1,0 +1,31 @@
+Blog Project Login details 
+-------------------------------------------------------------------------------
+Admin Login: 
+amjadet
+udemy12345
+
+user login :
+kazi
+udemy123456
+
+
+Social Media Project Login details 
+------------------------------------------------------------------------------------
+Admin Login: 
+amjadet
+udemy12345
+
+user login :
+kazi
+udemy12345
+
+udemy_ariyan
+udemy12345
+
+
+Ecommerce Project Login details 
+------------------------------------------------------------------------------------
+
+User Login: 
+ariyan@gmail.com
+udemy12345
